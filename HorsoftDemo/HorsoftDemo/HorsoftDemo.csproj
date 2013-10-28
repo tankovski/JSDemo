@@ -57,7 +57,6 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="imgs\background.jpg" />
     <Content Include="imgs\background2.jpg" />
     <Content Include="imgs\backward.png" />
     <Content Include="imgs\backwardHover.png" />
@@ -67,7 +66,6 @@
     <Content Include="imgs\forward.png" />
     <Content Include="imgs\forwardHover.png" />
     <Content Include="imgs\HiddenMenu.png" />
-    <Content Include="imgs\javascript-logo.jpg" />
     <Content Include="imgs\JS.png" />
     <Content Include="imgs\Looser.png" />
     <Content Include="imgs\MK1.jpg" />

@@ -4,3 +4,8 @@ E:\Uroci\ForWork\HorsoftDemo\HorsoftDemo\HorsoftDemo\bin\HorsoftDemo.pdb
 E:\Uroci\ForWork\HorsoftDemo\HorsoftDemo\HorsoftDemo\obj\Debug\HorsoftDemo.dll
 E:\Uroci\ForWork\HorsoftDemo\HorsoftDemo\HorsoftDemo\obj\Debug\HorsoftDemo.pdb
 E:\Uroci\ForWork\HorsoftDemo\HorsoftDemo\HorsoftDemo\obj\Debug\HorsoftDemo.csprojResolveAssemblyReference.cache
+E:\Uroci\ForWork\JsDemo\JSDemo\HorsoftDemo\HorsoftDemo\bin\HorsoftDemo.dll.config
+E:\Uroci\ForWork\JsDemo\JSDemo\HorsoftDemo\HorsoftDemo\bin\HorsoftDemo.dll
+E:\Uroci\ForWork\JsDemo\JSDemo\HorsoftDemo\HorsoftDemo\bin\HorsoftDemo.pdb
+E:\Uroci\ForWork\JsDemo\JSDemo\HorsoftDemo\HorsoftDemo\obj\Debug\HorsoftDemo.dll
+E:\Uroci\ForWork\JsDemo\JSDemo\HorsoftDemo\HorsoftDemo\obj\Debug\HorsoftDemo.pdb
