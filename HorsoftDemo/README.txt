@@ -1,1 +1,0 @@
-The project work only on server or if it is started with Visual Studio. 
